@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import usePosts from './usePosts';
 import React from 'react';
 
